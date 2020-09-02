@@ -1,0 +1,23 @@
+.post-date{
+display:none;  /*Дата публикации в квадрате*/
+}
+
+/*.section-header{
+display:none;
+} */
+
+.nav-next{
+display:none; 
+} 
+
+.nav-previous{
+display:none;
+}
+
+#respond{
+display:none;  /*Блок вывода комментариев*/
+} 
+
+.col-sm-12.text-center{
+display:none;
+}
